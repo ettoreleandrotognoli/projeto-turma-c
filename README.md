@@ -13,3 +13,13 @@ EMail: XXXXXXXXXXXX
 Celular: 999999999999
 
 ---
+
+## Experiencia
+
+- Prof. Unimar
+- Aquaponia
+- teste
+- teste
+
+---
+
